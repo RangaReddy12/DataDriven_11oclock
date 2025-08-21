@@ -3,14 +3,14 @@ package commonFunctions;
 public class Demo {
 public void add()
 {
-	System.out.println("Addition");
+	System.out.println("testing");
 }
 public void div()
 {
-	System.out.println("division");
+	System.out.println("manual");
 }
 public void mul()
 {
-	System.out.println("multiplication");
+	System.out.println("API");
 }
 }
